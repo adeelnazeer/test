@@ -13,7 +13,6 @@
     "axios": "^0.21.1",
     "cors": "^2.8.5",
     "next": "latest",
-    "postcss": "^8.4.20",
     "pusher": "^5.0.0",
     "pusher-js": "^7.0.3",
     "react": "^17.0.1",
