@@ -7,6 +7,7 @@ import LeftPanel from "../components/LeftPanel";
 import Notifications from "../components/Notifications";
 import { useRouter } from "next/router";
 
+
 const Chat = ({ username, userLocation }) => {
   const router = useRouter();
   const pusher = new Pusher("0062f135d5f629b301a4", {
